@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670026370 source:c:\users\ogeid\onedrive\documentos\flores\flores_v1.0.0\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<ctime>
+
